@@ -52,3 +52,4 @@ for filename in os.listdir(directory):
         print(f"Skipped {filename}. It is a directory.")
 
 print("File organization completed.")
+
