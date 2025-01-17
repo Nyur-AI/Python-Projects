@@ -1,0 +1,52 @@
+{
+    "Desktop Computer": {
+        "quantity": 20,
+        "location": "Computer Lab Room 101",
+        "notes": "Dell OptiPlex series, Intel i5 processors"
+    },
+    "Projector": {
+        "quantity": 2,
+        "location": "Ceiling Mount",
+        "notes": "Supports HDMI and VGA inputs"
+    },
+    "Router": {
+        "quantity": 1,
+        "location": "Network Room",
+        "notes": "Cisco 2900 series"
+    },
+    "Switch": {
+        "quantity": 2,
+        "location": "Network Room",
+        "notes": "48-port Gigabit switches"
+    },
+    "UPS": {
+        "quantity": 5,
+        "location": "Under desks",
+        "notes": "APC 1500VA, connected to critical systems"
+    },
+    "Printer": {
+        "quantity": 1,
+        "location": "Room Corner",
+        "notes": "HP LaserJet Pro, supports wireless printing"
+    },
+    "Keyboard": {
+        "quantity": 25,
+        "location": "Computer Lab Room 101",
+        "notes": "Standard USB keyboards"
+    },
+    "Mouse": {
+        "quantity": 25,
+        "location": "Computer Lab Room 101",
+        "notes": "Standard USB optical mice"
+    },
+    "Monitor": {
+        "quantity": 25,
+        "location": "Computer Lab Room 101",
+        "notes": "24-inch LED monitors"
+    },
+    "External Hard Drive": {
+        "quantity": 2,
+        "location": "Storage Cabinet",
+        "notes": "2TB capacity each, used for backups"
+    }
+}
