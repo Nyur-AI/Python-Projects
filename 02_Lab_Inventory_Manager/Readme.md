@@ -5,6 +5,7 @@
 
 ### Data Stored in JSON Format
 
+```json
 {
     "Monitor": {
         "quantity": 25,
@@ -17,3 +18,4 @@
         "notes": "2TB capacity each, used for backups"
     }
 }
+```
