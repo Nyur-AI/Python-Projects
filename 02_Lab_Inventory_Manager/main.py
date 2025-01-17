@@ -2,7 +2,7 @@ import json
 import os
 
 # File to store inventory data
-INVENTORY_FILE = "02_Lab_Inventory/lab_inventory.json"
+INVENTORY_FILE = "lab_inventory.json"
 
 # Function to load inventory from the file
 def load_inventory():
